@@ -1,0 +1,35 @@
+{
+    "name": "5e custom currency without EP",
+    "title": "5E Custom Currency without EP",
+    "description": "Set custom currency names and exchange rates for D&D 5E default currency. Gets rid of EP",
+    "author": "me",
+    "version": "0.1",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "0.6.8",
+    "compatibleCoreVersion": "0.8.8",
+    "dependencies": [],
+    "conflicts": [],
+    "esmodules": [
+        "scripts/5e-custom-currency.js"
+    ],
+    "scripts": [],
+    "styles": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "system": "dnd5e",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "media": [
+        {
+            "type": "icon",
+            "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+        }
+    ]
+}
