@@ -3,7 +3,7 @@
     "title": "5E Custom Currency without EP",
     "description": "Set custom currency names and exchange rates for D&D 5E default currency. Gets rid of EP",
     "author": "me",
-    "version": "0.1",
+    "version": "0.2",
     "library": "false",
     "manifestPlusVersion": "1.0.0",
     "minimumCoreVersion": "0.6.8",
@@ -24,8 +24,8 @@
     ],
     "system": "dnd5e",
     "url": "https://github.com/Boldvoyager/5e-Custom-Currency-No-EP",
-    "manifest": "",
-    "download": "",
+    "manifest": "https://github.com/Boldvoyager/5e-Custom-Currency-No-EP/releases/download/0.2/module.json",
+    "download": "https://github.com/Boldvoyager/5e-Custom-Currency-No-EP/releases/download/0.2/5eCustomCurrencyNoEP.zip",
     "media": [
         {
             "type": "icon",
